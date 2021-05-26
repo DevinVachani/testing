@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-color: greenyellow;
+}
+button{
+    color: powderblue;
+}
+
+.rules{
+    color: red;
+}
+.rulesBody{
+background-color:black
+}
+.rulesInfo{
+    color: green;
+}
+.homeBody{
+    background-color: black;
+}
+.giveaway{
+    color: blue;
+}
+.GWInfo{
+    color: yellow;
+}
+.GwBody{
+    background-color: black;
+}
+.GND{
+    color: rgb(11, 240, 11);
+}
+
+.button{
+background-color: blue;
+width: 200px;
+height: 50px;
+margin-top: 10px;
+size: 10px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.infoHeader{
+    color: red;
+}
+.info{
+    color: rgb(11, 240, 11);
+}
+.warnBody{
+    background-color: black;
+}
+.img{
+    margin-top: 10px;
+    width: 500px;
+    height: 500px;
+}
+.roles{
+    color: green;
+}
+.role{
+    color: red;
+}
+.names{
+    color: royalblue;
+}
+.modBody{
+    text-align: center;
+    background-color: black;
+}
